@@ -1,4 +1,4 @@
 # import pytest
 import pytest
-def Hello():
-  print('Helo Vinto')
+def add_numbers(a,b):
+   return a+b
