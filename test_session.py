@@ -1,3 +1,4 @@
 # import pytest
 import pytest
-print('Helo Vinto')
+def Hello():
+  print('Helo Vinto')
